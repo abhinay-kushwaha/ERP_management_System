@@ -1,6 +1,8 @@
 ERP management system using React & tailwind CSS
 Deploy 👉 https://erp-management.netlify.app/
 
+![React App Screenshot]((https://github.com/abhinay-kushwaha/ERP_management_System/blob/main/1713041491529.jpg))
+
 
 # Getting Started with Create React App
 
