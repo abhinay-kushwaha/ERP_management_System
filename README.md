@@ -1,3 +1,4 @@
+Enterprise resource planning (ERP) is a software system that helps you run your entire business, supporting automation and processes in finance, human resources, manufacturing, supply chain, services, procurement, and more.
 ERP management system using React & tailwind CSS
 Deploy 👉 https://erp-management.netlify.app/
 
